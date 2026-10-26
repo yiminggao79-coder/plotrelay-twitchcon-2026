@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: plotrelay-private
+    runtime: docker
+    plan: free
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: 4312
+      - key: ADMIN_KEY
+        sync: false
+      - key: PUBLIC_BASE_URL
+        sync: false
+      - key: TWITCH_CLIENT_ID
+        sync: false
+      - key: TWITCH_USER_TOKEN
+        sync: false
+      - key: TWITCH_BROADCASTER_ID
+        sync: false

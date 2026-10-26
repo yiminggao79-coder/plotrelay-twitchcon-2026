@@ -1,0 +1,131 @@
+{
+  "created_at": "2026-10-26T06:12:18.154Z",
+  "scope": "source snapshot only, not submission proof",
+  "files": [
+    {
+      "path": ".dockerignore",
+      "bytes": 35,
+      "sha256": "dd41c55b10197c6ca6ec6077e87bef937e35247bc950878ba61ea8725d91a3d4"
+    },
+    {
+      "path": ".env.example",
+      "bytes": 219,
+      "sha256": "73fec2580722f2caa7716a5bb393d0d65ef8a6dd01cc1023043fad0cbec8f9d6"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 46,
+      "sha256": "8cb362932f27990fd925040d9b37faa5017494cc53d0ccf0387e2e8198039419"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 117,
+      "sha256": "5342d2c27040f97e01f42e027ca560747907d56a2288766b9b666b221178a9bc"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1079,
+      "sha256": "7e592f7d72f3b98a37e893958ae5282b911cd9e9eee8ae0f33e0197f3e8a6fb4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4183,
+      "sha256": "7bd7d5e021091d24e0eec5f20492b38de8b978f3f922c5d28ed4364f173aed74"
+    },
+    {
+      "path": "docs/engineering/problem-log.md",
+      "bytes": 1439,
+      "sha256": "e9af7ffe23d980dd70219d303b5b85bd17dc99c4bb13cd5c52c67d453ace876f"
+    },
+    {
+      "path": "docs/progress.md",
+      "bytes": 1473,
+      "sha256": "1171aa6126ba60b2dec0237da7636fb8518ed31e389f749a1d28c1902cb25a4b"
+    },
+    {
+      "path": "docs/rules-and-provenance.md",
+      "bytes": 2607,
+      "sha256": "301768c2fe38275138f39ca5218525f9524f8d59ff1b515a0295c7e7c38f2db7"
+    },
+    {
+      "path": "docs/submission-draft.md",
+      "bytes": 2584,
+      "sha256": "66f0715b6225a36d6bd39e1d6dc9162b8272033a11b74c66b5cba0e6520754b6"
+    },
+    {
+      "path": "package.json",
+      "bytes": 272,
+      "sha256": "3913b8d61bc629eb8b8ed3f8782558a1ad54361ddd6173b5bd5c0d502bf1222f"
+    },
+    {
+      "path": "public/app.js",
+      "bytes": 3792,
+      "sha256": "93abd9748c81d4385c87840017d24be1b296687c417952e479f7444fbbef3e1a"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 2801,
+      "sha256": "83cc80fbf0028590f2efef3c006902366a9186ec8fb5b082370369deed67e280"
+    },
+    {
+      "path": "public/overlay.html",
+      "bytes": 515,
+      "sha256": "e3bfa245c5f74e0d22dc2c482f716b396c3b0af1a0869105a168c81557ffe3e7"
+    },
+    {
+      "path": "public/overlay.js",
+      "bytes": 736,
+      "sha256": "75facd6fa2ba33fca688e7a44931590dc07b1deb8b6ca7d202c04894b8a1123e"
+    },
+    {
+      "path": "public/style.css",
+      "bytes": 5403,
+      "sha256": "5afb57e150cd99bad9ac051aa50a00e577e37770c377608fae429ca54f111a46"
+    },
+    {
+      "path": "render.yaml",
+      "bytes": 427,
+      "sha256": "f37ec86f6ee94391e341a6726e075cdc7885bba84206e28f1b67aeed8c9233fe"
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 583,
+      "sha256": "492a21fd4158991859780f687360393d1c3984b18591e88cab62c4fa9e0ff860"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 5263,
+      "sha256": "a734925de86649249bf95a7a6f8622b59bf8c109f291108519570492407746d7"
+    },
+    {
+      "path": "setup-local.ps1",
+      "bytes": 668,
+      "sha256": "51558b27c7bb1f99a5093e26c2f683d2885a737ceae9d62829e87b7db3643d7a"
+    },
+    {
+      "path": "src/story.mjs",
+      "bytes": 3085,
+      "sha256": "a5458be48185fb321cd8f69ff2d84e21cf305a25d82586e80eb627c666681a04"
+    },
+    {
+      "path": "src/twitch.mjs",
+      "bytes": 4076,
+      "sha256": "60cca12d96aedf387bdd491a06b7ed02ffb2268f0c9a57036c960a5abb2f46b7"
+    },
+    {
+      "path": "test/eventsub.test.mjs",
+      "bytes": 1035,
+      "sha256": "7c8fc76e764d6b2049acd2dbb1ba92c0c7c4a81f77d27730c0c12ac75f98ea39"
+    },
+    {
+      "path": "test/http.test.mjs",
+      "bytes": 1615,
+      "sha256": "f70c07c574e1d85530bd428a5485f3d4079a3de45b7cd93161296e9aef04917e"
+    },
+    {
+      "path": "test/story.test.mjs",
+      "bytes": 2624,
+      "sha256": "a2aa943efb6425724ffb45c019ae10fe84533d8b835f1c0d088002b0fdd2b8e2"
+    }
+  ]
+}
